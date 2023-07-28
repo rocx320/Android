@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">CAT1_placementApp</string>
+    <string name="textView2">Are You Ready for Placements?</string>
+    <string name="textView"><u>Let\'s Begin the Placement Preparation</u></string>
+    <string name="editTextText">Enter Name</string>
+    <string name="editTextText2">Enter Reg No.</string>
+    <string name="button">Login</string>
+    <string name="textView3">Welcome, </string>
+    <string name="textView5">Select Your Domain</string>
+    <string name="textView6">Select Your Preferred Job Roles</string>
+    <string name="button2">Let\'s Begin</string>
+    <string name="button3">Go!</string>
+    <string name="todo">TODO</string>
+    <string name="button5">Prev</string>
+    <string name="button4">Next</string>
+    <string name="notification_fab_description"> </string>
+    <string name="iot">IOT</string>
+    <string name="data_analytics">Data Analytics</string>
+    <string name="ai">AI</string>
+    <string-array name="Courses">
+        <item>MCA</item>
+        <item>MSC DataScience</item>
+        <item>MSC Electronics</item>
+    </string-array>
+</resources>
