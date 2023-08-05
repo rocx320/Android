@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">App-Lab3</string>
+    <string name="welcome">WELCOME</string>
+    <string name="Enter_Username">Enter Username</string>
+    <string name="Enter_password">Enter Password\n</string>
+    <string name="Login">LOGIN</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="home_username">Username</string>
+    <string name="reg_no">Register Number</string>
+    <string name="class_name">Class Name</string>
+    <string name="email">Email</string>
+    <string name="insta">Instagram</string>
+    <string name="infoMessage">Please fill in your information…</string>
+    <string name="ent_reg">Enter Register Number</string>
+    <string name="ent_email">Enter Email</string>
+    <string name="ent_class">Enter Class</string>
+    <string name="nextStep">Next</string>
+    <string name="oneMoreStep">Just One More Step..</string>
+    <string name="socialDet">Fill in your social media details</string>
+    <string name="ent_insta">Enter Instagram Username</string>
+    <string name="empty">Enter…</string>
+    <string name="Enter_Github_Username">Enter Github Username</string>
+    <string name="enter_linkedin">Enter LinkedIn Username</string>
+    <string name="enter_twitter">Enter Twitter Username</string>
+    <string name="finish">Finish</string>
+    <string name="logout">Logout</string>
+</resources>
